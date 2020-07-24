@@ -1,4 +1,4 @@
-Meteor
-apollo bare
-React & React DOM
+Meteor,
+apollo bare,
+React & React DOM,
 React Bootstrap
